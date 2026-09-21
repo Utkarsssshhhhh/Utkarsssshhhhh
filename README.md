@@ -27,3 +27,20 @@
 | **Hack36 — MNNIT Allahabad** | 🏅 **Special Mention** | Hackathon conducted at MNNIT Allahabad |
 
 ---
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_utkarssshhhhhh_/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="utkarsh.srivastava3060@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
