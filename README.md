@@ -15,3 +15,15 @@
 </p>
 
 <hr>
+---
+
+## 🏆 Achievements
+
+| Event | Result | Details |
+|---|---|---|
+| **Google Devs Sprint Hackathon** | 🏅 **4th Place** | Flagship coding event by Google Developers |
+| **Radiothon** | 🥈 **2nd Place** | 24 Hr Competitive hackathon |
+| **SIH 2026 — Internal Hackathon** | 🏅 **Special Mention** | MNNIT Allahabad |
+| **Hack36 — MNNIT Allahabad** | 🏅 **Special Mention** | Hackathon conducted at MNNIT Allahabad |
+
+---
