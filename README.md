@@ -28,6 +28,21 @@
 ---
 ---
 
+## 🛠️ Featured Projects
+
+### 🔹 [MedPassport — Digital Healthcare Platform](https://github.com/Utkarssshhhhh/Kryptexx-MedPassport-Public)
+
+Secure digital healthcare platform for managing medical records, controlled doctor access, and AI-powered healthcare assistance.
+
+- Built a full-stack healthcare platform connecting patients and doctors through secure digital medical records
+- Implemented patient dashboards with controlled doctor access and permission-based information management
+- Developed emergency medical information access and QR-based medical record sharing
+- Integrated an AI-powered medical chatbot for intelligent healthcare assistance
+- Designed backend APIs and database architecture for secure and scalable medical-data management
+- **Tech:** React · JavaScript · Node.js · Express.js · MongoDB · REST APIs · AI/LLMs
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -43,20 +58,5 @@
 </p>
 
 ---
-
----
-
-## 🛠️ Featured Projects
-
-### 🔹 [MedPassport — Digital Healthcare Platform](https://github.com/Utkarssshhhhh/Kryptexx-MedPassport-Public)
-
-Secure digital healthcare platform for managing medical records, controlled doctor access, and AI-powered healthcare assistance.
-
-- Built a full-stack healthcare platform connecting patients and doctors through secure digital medical records
-- Implemented patient dashboards with controlled doctor access and permission-based information management
-- Developed emergency medical information access and QR-based medical record sharing
-- Integrated an AI-powered medical chatbot for intelligent healthcare assistance
-- Designed backend APIs and database architecture for secure and scalable medical-data management
-- **Tech:** React · JavaScript · Node.js · Express.js · MongoDB · REST APIs · AI/LLMs
 
 ---
