@@ -21,7 +21,7 @@
 | Event | Result | Details |
 |---|---|---|
 | **Google Devs Sprint Hackathon** | 🏅 **4th Place** | Flagship coding event by Google Developers |
-| **Radiothon** | 🥈 **2nd Place** | 24 Hr Competitive hackathon |
+| **Radiothon — Internal Hackathon** | 🥈 **2nd Place** | 24 Hr Competitive hackathon |
 | **SIH 2026 — Internal Hackathon** | 🏅 **Special Mention** | Kryptexx : Our Solution to Every Medical Emergency |
 | **Hack36 — MNNIT Allahabad** | 🏅 **Special Mention** | Hackathon conducted at MNNIT Allahabad |
 
