@@ -38,7 +38,7 @@
   <a href="https://www.instagram.com/_utkarssshhhhhh_/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="utkarsh.srivastava3060@gmail.com">
+  <a href="[utkarsh.srivastava3060@gmail.com](https://mail.google.com/mail/u/1/#inbox)">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
