@@ -8,8 +8,7 @@
 🚀 Building real-world projects by combining modern web technologies with emerging AI
 </p>
 
-💪 Gamer • 🏏 Sports enthusiast • 🧠 Curious about new things • 🎧 Codes best with music on, even if procrastination sometimes wins 😭
+
 <p align="center">
 💪 Gamer • 🏏 Sports enthusiast • 🧠 Curious about new things • 🎧 Codes best with music on, even if procrastination sometimes wins 😭
 </p>
-
